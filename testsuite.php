@@ -1,5 +1,5 @@
 <?php					// -*-c++-*-
-	/* $Id: testsuite.php,v 1.1 2005/09/18 03:31:27 wolff_borg Exp $ */
+	/* $Id$ */
 
 	include('xmlrpc.inc');
 	require('phpunit.php');

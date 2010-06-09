@@ -180,6 +180,6 @@ if ($HTTP_GET_VARS["comment"] &&
 	src="http://meerkat.oreillynet.com/icons/meerkat-powered.jpg"
 	height="31" width="88" alt="Meerkat powered, yeah!"
 	border="0" hspace="8" /></a>
-<em>$Id: comment.php,v 1.1 2005/09/18 03:31:27 wolff_borg Exp $</em></p>
+<em>$Id$</em></p>
 </body>
 </html>

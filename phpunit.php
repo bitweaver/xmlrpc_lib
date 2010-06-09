@@ -5,7 +5,7 @@
 // Written by Fred Yankowski <fred@ontosys.com>
 //            OntoSys, Inc  <http://www.OntoSys.com>
 //
-// $Id: phpunit.php,v 1.1 2005/09/18 03:31:31 wolff_borg Exp $
+// $Id$
 
 // Copyright (c) 2000 Fred Yankowski
 
